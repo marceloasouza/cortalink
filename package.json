@@ -1,6 +1,6 @@
 {
-  "name": "cortalink",
-  "version": "0.1.0",
+  "name": "s",
+  "version": "1.0.0",
   "private": true,
   "homepage": "https://marceloasouza.github.io/cortarlink/",
   "dependencies": {
@@ -42,5 +42,19 @@
   },
   "devDependencies": {
     "gh-pages": "^3.2.3"
+  },
+  "description": "![cortaLink](https://user-images.githubusercontent.com/14211289/152630891-3f0deded-034a-4026-99d1-868ccec9af84.png)",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marceloasouza/cortalink.git"
+  },
+  "keywords": [
+    "corta"
+  ],
+  "author": "Marcelo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marceloasouza/cortalink/issues"
   }
 }
